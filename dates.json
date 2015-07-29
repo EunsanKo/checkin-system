@@ -1,0 +1,15 @@
+{ "_id" : { "$oid" : "558cb00b136dc9d04fb6f440" }, "group" : "iic", "date" : "2015.06.22", "__v" : 0 }
+{ "_id" : { "$oid" : "558cb58e136dc9d04fb6f44e" }, "group" : "iic", "date" : "2015.06.26", "__v" : 0 }
+{ "_id" : { "$oid" : "558cd0ceb4d0469b50c2fabe" }, "group" : "GS", "date" : "2015.06.26", "__v" : 0 }
+{ "_id" : { "$oid" : "559086a35c6e5ba75163bafe" }, "group" : "iic", "date" : "2015.06.29", "__v" : 0 }
+{ "_id" : { "$oid" : "5595d247fec50f286dd37abb" }, "group" : "iic", "date" : "2015.07.03", "__v" : 0 }
+{ "_id" : { "$oid" : "5599bb35fec50f286dd37ad3" }, "group" : "iic", "date" : "2015.07.06", "__v" : 0 }
+{ "_id" : { "$oid" : "559f1a58fec50f286dd37ae4" }, "group" : "iic", "date" : "2015.07.10", "__v" : 0 }
+{ "_id" : { "$oid" : "55a2f803fec50f286dd37af6" }, "group" : "iic", "date" : "2015.07.13", "__v" : 0 }
+{ "_id" : { "$oid" : "55a450e3fec50f286dd37b09" }, "group" : "iic", "date" : "2015.07.14", "__v" : 0 }
+{ "_id" : { "$oid" : "55a731d6fec50f286dd37b0e" }, "group" : "iic", "date" : "2015.07.16", "__v" : 0 }
+{ "_id" : { "$oid" : "55a847b2fec50f286dd37b10" }, "group" : "iic", "date" : "2015.07.17", "__v" : 0 }
+{ "_id" : { "$oid" : "55ac3547fec50f286dd37b25" }, "group" : "iic", "date" : "2015.07.20", "__v" : 0 }
+{ "_id" : { "$oid" : "55b175731216ba5f68a1d38a" }, "group" : "iic", "date" : "2015.07.24", "__v" : 0 }
+{ "_id" : { "$oid" : "55b56ed21216ba5f68a1d3a9" }, "group" : "iic", "date" : "2015.07.27", "__v" : 0 }
+{ "_id" : { "$oid" : "55b756a20b7ab7e60484abda" }, "group" : "iic", "date" : "2015.07.28", "__v" : 0 }

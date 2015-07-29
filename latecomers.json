@@ -1,0 +1,8 @@
+{ "_id" : { "$oid" : "5593287dfec50f286dd37ab7" }, "date" : "2015.06.29", "group" : "iic", "email" : "parkdy@gsshop.com", "__v" : 0 }
+{ "_id" : { "$oid" : "55932da1fec50f286dd37ab9" }, "date" : "2015.07.01", "group" : "iic", "email" : "paek.ps@gsshop.com", "__v" : 0 }
+{ "_id" : { "$oid" : "55a3026afec50f286dd37b05" }, "date" : "2015.07.13", "group" : "iic", "email" : "kikikeem@gsshop.com", "__v" : 0 }
+{ "_id" : { "$oid" : "55a5a0a3fec50f286dd37b0b" }, "date" : "2015.07.15", "group" : "iic", "email" : "paek.ps@gsshop.co.kr", "__v" : 0 }
+{ "_id" : { "$oid" : "55a5a0aafec50f286dd37b0c" }, "date" : "2015.07.15", "group" : "iic", "email" : "parkdy@gsshop.com", "__v" : 0 }
+{ "_id" : { "$oid" : "55ac412afec50f286dd37b33" }, "date" : "2015.07.20", "group" : "iic", "email" : "shinsw@gsshop.com", "__v" : 0 }
+{ "_id" : { "$oid" : "55b816ba0b7ab7e60484abdb" }, "date" : "2015.07.29", "group" : "iic", "email" : "jhkim@gsshop.com", "__v" : 0 }
+{ "_id" : { "$oid" : "55b816df0b7ab7e60484abdd" }, "date" : "2015.07.29", "group" : "iic", "email" : "rosemary189@gsshop.com", "__v" : 0 }
